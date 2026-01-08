@@ -1,0 +1,14 @@
+C:\Users\euagg\OneDrive\Desktop\Lesson10\obj\Debug\net9.0\Lesson10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\euagg\OneDrive\Desktop\Lesson10\obj\Debug\net9.0\Lesson10.AssemblyInfoInputs.cache
+C:\Users\euagg\OneDrive\Desktop\Lesson10\obj\Debug\net9.0\Lesson10.AssemblyInfo.cs
+C:\Users\euagg\OneDrive\Desktop\Lesson10\obj\Debug\net9.0\Lesson10.csproj.CoreCompileInputs.cache
+C:\Users\euagg\OneDrive\Desktop\Lesson10\bin\Debug\net9.0\Lesson10.exe
+C:\Users\euagg\OneDrive\Desktop\Lesson10\bin\Debug\net9.0\Lesson10.deps.json
+C:\Users\euagg\OneDrive\Desktop\Lesson10\bin\Debug\net9.0\Lesson10.runtimeconfig.json
+C:\Users\euagg\OneDrive\Desktop\Lesson10\bin\Debug\net9.0\Lesson10.dll
+C:\Users\euagg\OneDrive\Desktop\Lesson10\bin\Debug\net9.0\Lesson10.pdb
+C:\Users\euagg\OneDrive\Desktop\Lesson10\obj\Debug\net9.0\Lesson10.dll
+C:\Users\euagg\OneDrive\Desktop\Lesson10\obj\Debug\net9.0\refint\Lesson10.dll
+C:\Users\euagg\OneDrive\Desktop\Lesson10\obj\Debug\net9.0\Lesson10.pdb
+C:\Users\euagg\OneDrive\Desktop\Lesson10\obj\Debug\net9.0\Lesson10.genruntimeconfig.cache
+C:\Users\euagg\OneDrive\Desktop\Lesson10\obj\Debug\net9.0\ref\Lesson10.dll
